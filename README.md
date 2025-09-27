@@ -1,10 +1,8 @@
 # zombi3H3art
  
 👋 Hello,
-
+I have a passion for exploring automation, analytics, and system design and building tools that solve real problems and align with eternal truth.
 🧠 Technologist | 📊 Data Science Student | ✝️ Truth-Seeker  | 📚 Python Projects 
-Welcome to my GitHub! I have a passion for exploring automation, analytics, and system design and building tools that solve real problems and align with eternal truth.
-
 ⚙️ What I’m Working On....
 
 🧮 Smart Long-Buy Radar (SLBR): A finance platform for investing in stock buys. Streamlit dashboard.
