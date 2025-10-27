@@ -1,9 +1,8 @@
 # zombi3H3art
-👋 Hello! 
----
+**👋 Hello! **
 I have passion for exploring system design, automation, analytics, and building tools to solve problems aligned with Biblical truth.
 
-⚙️ What I’m Working On....
+**⚙️ What I’m Working On....**
 
 🤖 Smart Long-Buy Radar (SLBR): An advanced fintech finance application suite for investing. Streamlit dashboard.
 🧮 ETF Reader: Convert ETF portfolio files (csv / sql / json / pdf) into organized singular assets; OCR tech. 
