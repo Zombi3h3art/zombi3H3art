@@ -2,9 +2,9 @@
 **👋 Hello!**
 I have passion for exploring system design, automation, analytics, and building tools to solve problems aligned with Biblical truth.
 ---
-**🤖 Smart Long-Buy Radar (SLBR):** An advanced fintech finance application suite for investing. Streamlit dashboard.
+**🤖 Smart Long-Buy Radar (SLBR):** An advanced fintech finance dashboard investing suite.
 
-**🧮 ETF Reader:** Convert ETF portfolio files (CSV, SQL, JSON, PDF) into organized, singular assets; OCR tech.
+**🧮 ETF Reader:** Convert ETF portfolio files (CSV, SQL, JSON, PDF) into organized singular equities; OCR tech.
 
 **:see_no_evil: Clarity AI:** It'll "read" chats of humans; Enables the human user-agent and PREVENTS miscommunication; 
 CRM connection; No profiling; Righteous AI and Biblical guidance integration policy.
